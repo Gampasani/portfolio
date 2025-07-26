@@ -65,7 +65,7 @@ npm start.
 I’m Teja Gampasani, a B.Tech final-year student in Data Science at ANITS. I'm passionate about full-stack development, artificial intelligence, and building tools that make life easier.
 
 📬 Contact
-📧 Email: gampasaniteja.le23.csd@anits.edu.in
+📧 Email: gampasaniteja@gmail.com
 
 🌐 Portfolio: https://gampasani.github.io/portfolio
 

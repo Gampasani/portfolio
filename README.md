@@ -56,11 +56,12 @@ portfolio/
 
 
 git clone https://github.com/Gampasani/portfolio.git
+
 cd portfolio, 
 npm install, 
 npm start.
 
-🧑 About Me
+## About Me
 I’m Teja Gampasani, a B.Tech final-year student in Data Science at ANITS. I'm passionate about full-stack development, artificial intelligence, and building tools that make life easier.
 
 📬 Contact
